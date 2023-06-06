@@ -46,6 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/divyadharshiniddanbarasu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393424/e9c06aa8-730b-4bb5-8130-6c1d4195814b)
+
 
 ### Name: Divyadharshini.A
 ### Register Number: 212222240027
